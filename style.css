@@ -1,13 +1,13 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: url(images/black.jpg);
+    background-image: url(https://i.ibb.co/3TsP1cW/black.jpg);
     background-size: 300%;
 }
 .sun{
     height:80px;
     width:80px;
-    background-image: url(images/sun.jpg);
+    background-image: url(https://i.ibb.co/xFjsy1g/sun.jpg);
     border-radius: 50%;
     background-size: 100%;
     box-shadow: -4px 2px 56px #ff0000;
@@ -19,7 +19,7 @@ body{
 .mercury{
     height: 15px;
     width: 15px;
-    background-image: url(images/mercury.jpg);
+    background-image: url(https://i.ibb.co/Yd4KKtR/mercury.jpg);
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
@@ -45,7 +45,7 @@ p{
     top: -35px;
 }
 .mercury-outline,.venus-outline-1,
-.earth-outline-1,.mars-outline-1,.jupiter-ourtline-1,
+.earth-outline-1,.mars-outline-1,.jupiter-outline-1,
 .saturn-outline-1,.uranus-outline-1,.neptune-outline-1{
     border-radius: 50%;
     border: 1px dotted #ddd9;
@@ -62,7 +62,7 @@ p{
 .venus{
     height: 20px;
     width: 20px;
-    background-image: url(images/venus.jpg);
+    background-image: url(https://i.ibb.co/TTmfCdP/venus.jpg);
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
@@ -83,7 +83,7 @@ p{
 .earth{
     height: 30px;
     width: 30px;
-    background-image: url(images/earth.jpg) ;
+    background-image: url(https://i.ibb.co/12jg2jb/earth.jpg) ;
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
@@ -129,7 +129,7 @@ p{
 .mars{
     height: 30px;
     width: 30px;
-    background-image: url(images/mars.jpg);
+    background-image: url(https://i.ibb.co/FbXtMgx/mars.jpg);
     background-size: 100%;
     border-radius: 50%;
     position:absolute;
@@ -150,13 +150,13 @@ p{
 .jupiter{
     height: 50px;
     width: 50px;
-    background-image: url(images/jupiter.jpg);
+    background-image: url(https://i.ibb.co/MhY7Tjf/jupiter.jpg);
     background-size: 100%;
     border-radius: 50%;
     position:absolute;
     box-shadow: -4px 2px 56px #ddad0d;
     left:46%;
-    top: 46%;
+    top:46%;
     transform: translate(-50%,-50%);
     animation:orbit6 60s linear infinite;
 }
@@ -166,17 +166,17 @@ p{
 }
 .jupiter-outline-1{
 
-    height: 500px ;
-    width:500px;
+    height: 450px ;
+    width:450px;
 }
 .saturn{
     height: 35px;
     width: 35px;
-    background-image: url(images/saturn.jpg);
+    background-image: url(https://i.ibb.co/GdhqDC4/saturn.jpg);
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
-    box-shadow: -4px 2px 56px #220ddd;
+    box-shadow: -4px 2px 56px hsla(0, 0%, 0%, 0.87);
     left:47%;
     top: 47%;
     transform: translate(-50%,-50%);
@@ -194,7 +194,7 @@ p{
 .uranus{
     height: 34px;
     width: 34px;
-    background-image: url(images/uranus.jpg);
+    background-image: url(https://i.ibb.co/PzDdKYw/uranus.jpg);
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
@@ -215,7 +215,7 @@ p{
 .neptune{
     height: 25px;
     width: 25px;
-    background-image: url(images/neptune.jpg);
+    background-image: url(https://i.ibb.co/nkNhPHp/neptune.jpg);
     background-size: 100%;
     border-radius: 50%;
     position: absolute;
